@@ -1,6 +1,0 @@
-cd path/to/flight-school-app/backend
-git init
-git remote add origin https://github.com/LehanViljoen/flight-school-backend.git
-git add .
-git commit -m "Initial backend commit"
-git push -u origin main
